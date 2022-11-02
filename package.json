@@ -1,0 +1,14 @@
+{
+  "name": "trips_be",
+  "version": "1.0.0",
+  "description": "Trips microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Perdomo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
