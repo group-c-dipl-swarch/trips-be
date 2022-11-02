@@ -9,6 +9,8 @@
   "author": "David Perdomo",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "firebase-admin": "^11.2.0",
+    "morgan": "^1.10.0"
   }
 }
