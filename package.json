@@ -4,7 +4,8 @@
   "description": "Trips microservice",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
   },
   "author": "David Perdomo",
   "license": "ISC",
@@ -12,5 +13,8 @@
     "express": "^4.18.2",
     "firebase-admin": "^11.2.0",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
